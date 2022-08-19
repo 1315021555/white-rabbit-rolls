@@ -10,6 +10,7 @@
     font-display: block;
   }
   
+
   [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'icomoon' !important;
@@ -273,7 +274,7 @@ button{
     width: 70px;
     height: 35px;
     margin-top: 18px;
-    border: 1px solid rgb(179, 213, 255);
+    border: 1px solid rgb(180, 213, 255);
     background-color: rgb(244,249,255);
     color: rgb(28,141,255);
     border-radius: 4px;
